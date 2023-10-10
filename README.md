@@ -1,5 +1,5 @@
 # plex-toolbox
 
-# Primeiros Passos #
+Primeiros Passos
 
 Insira a sua URL e TOKEN no arquivo confi.ini
